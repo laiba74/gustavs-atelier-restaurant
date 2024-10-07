@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/notepad_links.txt
 
 # testing
 /coverage
